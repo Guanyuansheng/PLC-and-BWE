@@ -4,3 +4,5 @@ Proposed joint algorithm is implemented by a temporal-frequency hybrid generativ
 ![image](https://github.com/Guanyuansheng/PLC-and-BWE/blob/main/architecture.png)
 
 In this project, we will show the mapping results from 4 kHz narrowband, lost speech to 8 kHz broadband complete speech, in the form of audio and pictures.
+
+![image](https://github.com/Guanyuansheng/PLC-and-BWE/blob/main/Visualization.png)
