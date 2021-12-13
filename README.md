@@ -6,3 +6,5 @@ Proposed joint algorithm is implemented by a temporal-frequency hybrid generativ
 In this project, we will show the mapping results from 4 kHz narrowband, lost speech to 8 kHz broadband complete speech, in the form of audio and pictures.
 
 ![image](https://github.com/Guanyuansheng/PLC-and-BWE/blob/main/Visualization.png)
+
+Figure: Visualization of the waveforms and spectrograms of different systems. (a) the continuous 8-kHz wideband speech. (b) the waveform and spectrogram from X2 Spline with 20% packet losses. (c) the waveform and spectrogram of the reconstructed speech with AudioUNet. (d) the waveform and spectrogram of the reconstructed speech with TFNet. (e) the waveform and spectrogram of the reconstructed speech with MUGAN. (f) the waveform and spectrogram of the reconstructed speech with Proposed.
